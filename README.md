@@ -28,9 +28,8 @@
 
 📎 يمكنك عرض الملفات من الروابط التالية:  
 - [📄 تقرير المشروع](https://github.com/LamaaBejad/Graduation-project/blob/main/Graduation%20Project%20.pdf)  
-- [🎞️ عرض المشروع](./Presentation.pptx)
-
----
+- [🎞️ عرض المشروع][
+](https://github.com/LamaaBejad/Graduation-project/blob/main/Graduation%20Project%20.pdf)---
 
 ## 🌟 المميزات المستقبلية
 - إضافة نظام تقييم للمواقع السياحية.  
